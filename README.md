@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <h1 style="text-align"> Hello. Soy Jhonny Vector &#127938;</h1>
+  <h1 style="text-align"> Hello &#127938;</h1>
   
   Quick Bio---> From Artist to Programmer. 
   
