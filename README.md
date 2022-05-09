@@ -4,9 +4,9 @@
   
   Quick Bio---> From Artist to Programmer. 
   
-  <code> *Real name:* Ivan. </code> <br>
-  <code> *Native language:* Spanish. </code> <br>
-  <code> *Skills:* Learning 10/10. <br> teamPlayer= True. <br> Tattoos 10/10. </code>
+  <code> Real name: *Ivan.* </code> <br>
+  <code> Native language: *Spanish.* </code> <br>
+  <code> Coding skills= *Python/CSS/Html* <br> teamPlayer= *True.* <br> Communication skills= *10/10* </code>
   
   <hr shade size="4" widht="50%" align="center" />  
   
