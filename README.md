@@ -12,8 +12,8 @@
   
   <h3> ENG: </h3>
   
-  I was born and raised in Colombia. I studied arts, it was fun and now I'm teaching myself some coding skills. I have basic knowledge in Python, HTML and Css. I'm interested in UI/UX Design. I like to excercise and being in nature
-  <br>
+  I was born and raised in Colombia. I studied arts, it was fun and now I'm teaching myself some coding skills. I have basic knowledge in Python, HTML and Css. I'm interested in UI/UX Design. I like to excercise and being in nature <br>
+  
   Check out my LinkedIn here: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a> &#9978;   
  
   <hr shade size="4" widht="50%" align="center" /> 
