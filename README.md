@@ -29,6 +29,6 @@
   
   Puedes ver mi LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997>soyivan1997</a> <br> <br>
   Mi primer libro sobre desarrollo personal *"Agresión y Masculinidad: Nuestro espíritu"* Disponible en Amazon: <a href= https://www.amazon.com/dp/B09WPSHWRD>Kindle</a> <br> <br>
-  SoundCloud: <a href=https://soundcloud.com/jhonnyvector>jhonnyvector</a> <br>
+  SoundCloud: <a href=https://soundcloud.com/jhonnyvector>jhonnyvector</a> <br> <br>
   💾
  </html> 
